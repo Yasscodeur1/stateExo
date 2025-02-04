@@ -1,0 +1,13 @@
+.exo{
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    padding: .5em;
+}
+
+input{
+    padding: 10px;
+}
