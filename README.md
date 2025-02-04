@@ -26,3 +26,7 @@ Exo4 : Au clique du bouton, une alert apparaît
 
 Exo5 : Au focus de l'input, son bg-color devient vert et à l'inverse, au dé focus, il redevient normal
 # stateExo
+
+
+![Texte alternatif](./src/assets/Capture%20d’écran%202025-02-04%20à%2016.31.53.png)
+
